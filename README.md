@@ -28,3 +28,13 @@ built to demonstrate secure architecture principles for ai-driven systems.
 ```bash
 git clone https://github.com/<yourusername>/aegisgpt.git
 cd aegisgpt
+
+## security notes
+
+- this is a demo prototype for campus and interview purposes
+
+- replace mock llm call with openai or vertex ai for production demos
+
+- use secure secret management (dotenv / vault)
+
+- enforce stricter prompt blocking and logging policies for real deployments
